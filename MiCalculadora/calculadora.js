@@ -35,7 +35,6 @@ function cargarCalculadora(){
     var tres = botonesN[9];
     var cero = botonesN[10];
     var igual = botonesN[11];
- 
 
     
 //Eventos de click
